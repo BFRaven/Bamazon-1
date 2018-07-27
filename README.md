@@ -8,7 +8,7 @@ _If there is **insufficient quantity** of the requested item in Bamazon's databa
 
 Once the transaction is complete, the customer will be asked if they would like to continue shopping.  If yes, the customer will be given the new stock inventory of Bamazon and allowed to place another order.  If not, they will be thanked for shopping Bamazon!
 
-<img width="1016" alt="customer-experience" src="https://user-images.githubusercontent.com/38231097/43286051-782fa6e6-90e6-11e8-9d56-129f0d215c35.png">
+![bamazon-customer](https://user-images.githubusercontent.com/38231097/43300041-a433bf3e-9122-11e8-8ae8-9b4727ca92a8.gif)
 
 ## Manager Experience
 ![bamazon-manager](https://user-images.githubusercontent.com/38231097/43299815-91c39ef6-9121-11e8-94b0-a7a73fb7e107.gif)
