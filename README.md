@@ -11,3 +11,4 @@ Once the transaction is complete, the customer will be asked if they would like 
 <img width="1016" alt="customer-experience" src="https://user-images.githubusercontent.com/38231097/43286051-782fa6e6-90e6-11e8-9d56-129f0d215c35.png">
 
 ## Manager Experience
+![bamazon-manager](https://user-images.githubusercontent.com/38231097/43299815-91c39ef6-9121-11e8-94b0-a7a73fb7e107.gif)
