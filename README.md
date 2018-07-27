@@ -11,4 +11,6 @@ Once the transaction is complete, the customer will be asked if they would like 
 ![bamazon-customer](https://user-images.githubusercontent.com/38231097/43300041-a433bf3e-9122-11e8-8ae8-9b4727ca92a8.gif)
 
 ## Manager Experience
-![bamazon-manager](https://user-images.githubusercontent.com/38231097/43299815-91c39ef6-9121-11e8-94b0-a7a73fb7e107.gif)
+The managers of bamazon are greeted by name and given 4 options: view all stock, view low inventory, add inventory or add new items to the Bamazon marketplace.  
+
+![bamazon-manager2](https://user-images.githubusercontent.com/38231097/43300691-3fd97e4e-9126-11e8-9364-a135cec2453a.gif)
